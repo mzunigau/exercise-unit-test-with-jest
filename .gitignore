@@ -22,4 +22,5 @@
 !/.learn/exercises
 !/.learn/exercises/**
 
-!/node_modules/**
+node_modules
+.theia
