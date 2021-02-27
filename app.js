@@ -11,6 +11,7 @@ let oneEuroIs = {
 
 const fromEuroToDollar = (euro)=>{    
     return euro*oneEuroIs.USD;
+    
 }
 
 const fromDollarToYen  = (dollar)=>{
